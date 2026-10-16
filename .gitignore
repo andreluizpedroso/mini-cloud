@@ -1,0 +1,15 @@
+# Binários e artefatos
+/bin/
+*.exe
+*.test
+*.out
+
+# Dados gerados pelos experimentos
+/data/
+*.wal
+*.sst
+
+# Editores / SO
+.idea/
+.vscode/
+.DS_Store
